@@ -1,4 +1,4 @@
-# Coforge PE Intelligence Platform — V2
+# Coforge PE Intelligence Platform - V2
 
 A Streamlit account-intelligence workspace designed for Coforge's private-equity targeting and research workflow.
 
