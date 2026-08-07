@@ -1,0 +1,22 @@
+[
+  {
+    "Capability": "AI & Generative AI",
+    "Description": "AI engineering, GenAI enablement, enterprise copilots and model-enabled workflow transformation.",
+    "Signal Keywords": ["artificial intelligence", "generative ai", "genai", "llm", "copilot", "machine learning"]
+  },
+  {
+    "Capability": "Data for AI",
+    "Description": "Data engineering, analytics foundations, governed data access and AI-ready information platforms.",
+    "Signal Keywords": ["data engineer", "data platform", "snowflake", "databricks", "analytics", "data governance"]
+  },
+  {
+    "Capability": "Intelligent Automation",
+    "Description": "Automation of high-volume workflows using AI, orchestration and human-in-the-loop controls.",
+    "Signal Keywords": ["automation", "workflow", "servicenow", "process", "operations", "productivity"]
+  },
+  {
+    "Capability": "AI Engineering & MLOps",
+    "Description": "Productionisation, model operations, monitoring, cloud-native AI engineering and platform reliability.",
+    "Signal Keywords": ["mlops", "machine learning engineer", "python", "kubernetes", "azure", "aws", "gcp"]
+  }
+]
